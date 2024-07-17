@@ -2,7 +2,7 @@
 learning git & github
 git is free & open source
 
-remote(github)   to    local(laptop/pc)
+remote(github)   to    local (git) i.e laptop/pc
 
 
 ### 4 types of status
